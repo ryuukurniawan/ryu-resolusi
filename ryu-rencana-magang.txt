@@ -4,7 +4,6 @@ RENCANA MAGANG RYU
    ^ dart
    ^ fluter
   * Pengalaman kerja
-- GYM
 - MEMBUAT PORTOFOLIO
 * input skill
 - MENDAFTAR MAGANG
