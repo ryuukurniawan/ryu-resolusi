@@ -1,7 +1,10 @@
 RENCANA MAGANG RYU
 - MEMBUAT CV
   * Skill upgrade
+   ^ dart
+   ^ fluter
   * Pengalaman kerja
 - GYM
 - MEMBUAT PORTOFOLIO
+* input skill
 - MENDAFTAR MAGANG
