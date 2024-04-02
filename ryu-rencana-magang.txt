@@ -1,7 +1,8 @@
 RENCANA MAGANG RYU
 - MEMBUAT CV
   * Skill upgrade
+    ^ react
+    ^ data analisis
   * Pengalaman kerja
-- GYM
 - MEMBUAT PORTOFOLIO
 - MENDAFTAR MAGANG
